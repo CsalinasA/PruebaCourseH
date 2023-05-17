@@ -1,2 +1,1 @@
-# PruebaCourseH
-Este es un repositorio de prueba del prep henry
+esto es un proyecto que se esta realizando en el henry course
